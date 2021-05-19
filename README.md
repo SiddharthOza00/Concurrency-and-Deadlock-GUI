@@ -10,7 +10,7 @@ Installing JRE :- https://java.com/en/download/ Download and run the installer f
 
  ●Click Advanced and then Environment Variables.
 
- ●Add the location of the bin folder of the JDK installation to the PATH variable in System Variables. ● The following is a typical value for the PATH variable:     C:\WINDOWS\system32;C:\WINDOWS;"C:\Program Files\Java\jdk-10\bin" Put your jdk version in jdk-xx if it's not 10.
+ ●Add the location of the bin folder of the JDK installation to the PATH variable in System Variables. ● The following is a typical value for the PATH variable:     C:\WINDOWS\system32;C:\WINDOWS;"C:\Program Files\Java\jdk-11\bin" Put your jdk version in jdk-xx if it's not 11.
 
  ●Installing Netbeans :- ● https://netbeans.apache.org/download/index.html , download and run the Netbeans installer(LTS version) from this site, it will    automatically select the java installation path and you can choose the workspace of your choice or let it be the default one.
 
